@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Claire",
+      "lastName": "Foy",
+      "gender": "F",
+      "email": "clairefoy@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Diana",
+      "lastName": "Spencer",
+      "gender": "F",
+      "email": "LadyDi@live.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Alex",
+      "lastName": "Costa",
+      "gender": "M",
+      "email": "alexdcosta@only.com"
+    },
+    {
+      "id": 6,
+      "firstName": "Hamilton",
+      "lastName": "Jackson",
+      "gender": "M",
+      "email": "hamilton@gmail.com"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
